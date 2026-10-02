@@ -1,6 +1,6 @@
 # 밀당 PWA
 
-> [해커톤 이름 확인 필요] 출품 팀 프로젝트 · 프론트엔드 · 내 담당: [확인 필요]
+> 공모전에 출품한 팀 프로젝트의 프론트엔드입니다. 원본은 팀원의 [killerwhale-15/mildang](https://github.com/killerwhale-15/mildang)이고, 이 리포는 그 fork입니다. 제 프론트엔드 기여: [뒤로가기 버튼 추가 · 예산 표시값·슬라이더 수정](https://github.com/killerwhale-15/mildang/pull/1)
 
 `api 명세서.md`의 화면 API 매핑을 기준으로 연동되어 있습니다. 공모전 데모는 `npm.cmd run build:demo`, 운영 빌드는 `npm.cmd run build:prod`를 사용합니다. 환경 설정과 실서비스 전환 지점은 [API 연동 및 배포 가이드](docs/API_INTEGRATION.md)에 정리되어 있습니다.
 
